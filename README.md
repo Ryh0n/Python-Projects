@@ -10,6 +10,6 @@ Note that the computer generates moves randomly, this is a place holder and due 
 
 Generic bubble sort with graphical representation using pyplot
 
-# Stat Analysis and world_pop
+# Stat Analysis 
 
-"Stat analysis.py" requires the "anthropometry.dat" file to be in the same folder and similarly "world pop analysis.py" requires "world_pop.dat"
+"Stat analysis.py" requires the "anthropometry.dat" file to be in the same folder
